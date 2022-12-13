@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/himanshuragi456/learning-solana/issues"
   },
-  "homepage": "https://github.com/himanshuragi456/learning-solana#readme"
+  "homepage": "https://github.com/himanshuragi456/learning-solana#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
 }
